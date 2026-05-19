@@ -1,4 +1,4 @@
 # practice-demo
 This is my first git repository
 <br>
-Author - Yash Kumar Yadav 
+Author is - Yash Kumar Yadav 
